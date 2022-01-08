@@ -10,3 +10,47 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.stem{
+    margin:auto;
+    text-align: center;
+    width:15px;
+    height:150px;
+    background:black;
+}
+.lightHousing{
+    padding:10px;
+    margin:auto;
+    background: black;
+    width:125px;
+    height:300px;
+    border-radius:50px;
+}
+
+.light {
+    margin:auto;
+    border-radius: 100%;
+    width:90px;
+    height: 90px;
+    border-color: black;
+    border-style: solid;
+    cursor: pointer;
+
+}
+.red{
+    background:red;
+}
+.yellow{
+    background:yellow;
+    
+}
+.green{
+    background:green;
+    
+}
+
+
+.selected {
+    box-shadow: 0 0 30px #FFFFFF;
+
+}
